@@ -1,2 +1,2 @@
 # psychic-octo-parakeet
-Test Repo for Testing Jira integration
+Test Repo for Testing Jira integration with Github
